@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ICPC\\New Commer\\Digits_Summation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58ED2F8E-7E16-4BB6-A0E3-E487A620988C}|Digits_Summation\\Digits_Summation.vcxproj|D:\\ICPC\\New Commer\\Digits_Summation\\Digits_Summation\\DigitsSummation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{58ED2F8E-7E16-4BB6-A0E3-E487A620988C}|Digits_Summation\\Digits_Summation.vcxproj|solutionrelative:Digits_Summation\\DigitsSummation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DigitsSummation.cpp",
+              "DocumentMoniker": "D:\\ICPC\\New Commer\\Digits_Summation\\Digits_Summation\\DigitsSummation.cpp",
+              "RelativeDocumentMoniker": "Digits_Summation\\DigitsSummation.cpp",
+              "ToolTip": "D:\\ICPC\\New Commer\\Digits_Summation\\Digits_Summation\\DigitsSummation.cpp",
+              "RelativeToolTip": "Digits_Summation\\DigitsSummation.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-18T04:54:16.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

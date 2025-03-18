@@ -1,0 +1,4 @@
+﻿  DigitsSummation.cpp
+D:\ICPC\New Commer\Digits_Summation\Digits_Summation\DigitsSummation.cpp(8,24): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\ICPC\New Commer\Digits_Summation\Digits_Summation\DigitsSummation.cpp(9,24): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  Digits_Summation.vcxproj -> D:\ICPC\New Commer\Digits_Summation\x64\Debug\Digits_Summation.exe
